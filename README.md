@@ -1,0 +1,3 @@
+# Copypasta
+
+Vokalt shared components
